@@ -3,29 +3,16 @@ discente(kevin).
 discente(joao).
 discente(esdras).
 discente(moises).
-discente(daniel).
-discente(lucas).
-discente(matheus).
-discente(gustavo).
-discente(ricardo).
-discente(patrick).
-discente(rafael).
-discente(jorge).
-
 
 docente(roberto).
 docente(duarte).
 docente(michelle).
 docente(anfranserai).
-docente(gabriela).
-docente(claudia).
-docente(ana_lucia).
 
 estudajunto(kevin, esdras).
 estudajunto(kevin, moises).
 estudajunto(kevin, joao).
-/*Eu acho que assim não ia funcionar, por isso mudei. Mas qualquer coisa
- * eu comentei.
+/*
 turma1(esdras).
 turma1(kevin).
 turma1(moises).
@@ -51,28 +38,17 @@ turma(esdras,turma1).
 turma(kevin,turma1).
 turma(joao,turma1).
 turma(moises,turma1).
-turma(daniel,turma1).
-turma(gustavo,turma1).
 turma(esdras,turma2).
 turma(kevin,turma2).
 turma(joao,turma2).
 turma(moises,turma2).
-turma(patrick,turma2).
-turma(lucas,turma2).
 turma(esdras,turma3).
 turma(kevin,turma3).
 turma(joao,turma3).
 turma(moises,turma3).
-turma(matheus,turma3).
-turma(rafael,turma3).
-turma(jorge,turma3).
-
 turma(roberto,turma1).
-%turma(gabriela,turma1).
 turma(anfranserai,turma2).
-%turma(claudia,turma2).
 turma(duarte,turma3).
-%turma(ana_lucia,turma3).
 cursaMateria(turma1, algoritmosII).
 cursaMateria(turma2, circuitosDigitais).
 cursaMateria(turma3, arquitetura).
